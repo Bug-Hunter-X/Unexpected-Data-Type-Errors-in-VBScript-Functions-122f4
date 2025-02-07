@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: unexpected data type errors when using the IsEmpty function. VBScript's loose typing system can lead to subtle issues if parameters aren't checked rigorously. This example illustrates the problem and a robust solution.
